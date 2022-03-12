@@ -1,0 +1,8 @@
+it is a calculator app, that runs on the terminal or in cli and
+written in Node JS
+
+To Use It :
+
+in terminal type => node app.js 4 + 6
+
+note: you have to give one space between each number and sign(+,-,*,/)
